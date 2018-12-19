@@ -1,0 +1,1 @@
+Very basic project showcasing broken syntax checking when using vscode-java, OpenJDK 11 and Lombok.
